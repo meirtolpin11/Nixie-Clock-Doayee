@@ -70,152 +70,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "items_not_allowed|105676040|76000000|00000000-0000-0000-0000-0000583ca67f|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|109276540|76000000|00000000-0000-0000-0000-0000583e1333|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|116420900|76527660|00000000-0000-0000-0000-0000583ca682|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|117927120|76019658|00000000-0000-0000-0000-0000583e1334|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|126577700|76000000|00000000-0000-0000-0000-0000583e1336|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|127972820|76527660|00000000-0000-0000-0000-0000583ca6a0|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|128779880|76000000|00000000-0000-0000-0000-0000583e0f88|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|132075580|76000000|00000000-0000-0000-0000-0000583e133b|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|139768580|76527660|00000000-0000-0000-0000-0000583e0f8b|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|140595350|76019658|00000000-0000-0000-0000-0000583e133c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|149115120|76000000|00000000-0000-0000-0000-0000583e133e|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|151812600|76000000|00000000-0000-0000-0000-0000583ca6a2|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|152000000|76000000|f060c5b8-59df-4da7-9292-e59e09cc3bc2|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|155044800|76000000|00000000-0000-0000-0000-0000583e1343|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|162483800|76527660|00000000-0000-0000-0000-0000583ca6a5|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|163705540|76017120|00000000-0000-0000-0000-0000583e1344|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|172366280|76000000|00000000-0000-0000-0000-0000583e1346|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|174210320|76000000|00000000-0000-0000-0000-0000583ca6a7|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|177574600|76000000|00000000-0000-0000-0000-0000583e134a|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|185064400|76527660|00000000-0000-0000-0000-0000583ca6aa|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|186381390|76019658|00000000-0000-0000-0000-0000583e134b|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|195188180|76000000|00000000-0000-0000-0000-0000583e134c|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|196973800|76000000|00000000-0000-0000-0000-0000583ca6ac|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|200594620|76000000|00000000-0000-0000-0000-0000583e1351|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|207434240|76527660|00000000-0000-0000-0000-0000583ca6af|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|209335370|76019658|00000000-0000-0000-0000-0000583e1353|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|218738451|75337669|00000000-0000-0000-0000-0000583e1355|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|219420440|74376280|00000000-0000-0000-0000-0000583e1356|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|219461170|75488830|00000000-0000-0000-0000-0000583ca677|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|219517320|74000000|00000000-0000-0000-0000-0000583e1357|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|59721501|70914501|00000000-0000-0000-0000-0000583e1fd4|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|78500000|72009002|00000000-0000-0000-0000-0000583e1fd2|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|78500000|72009002|00000000-0000-0000-0000-0000583e1fd3|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|79438500|72923400|2c112d12-0fa8-4287-bfb7-7d0e7ce59dd9|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|81240630|74725530|00000000-0000-0000-0000-0000583e1fcf|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|94095570|76527660|33f43233-a71a-4ec1-862f-60fd801c5805|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -651,7 +506,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.1524,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -660,13 +515,28 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
+        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1524,
         "tuning_profile": "",
         "via_diameter": 0.508,
         "via_drill": 0.3302,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.5,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Nixie",
+        "pcb_color": "rgb(255, 226, 6)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.254,
+        "tuning_profile": "",
+        "via_diameter": 0.508,
+        "via_drill": 0.3302
       }
     ],
     "meta": {
@@ -680,243 +550,243 @@
         "pattern": "+5V"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/1"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/10"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/11"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/12"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/13"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/14"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/15"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/16"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/17"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/18"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/19"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/2"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/20"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/21"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/22"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/23"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/24"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/25"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/26"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/27"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/28"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/29"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/3"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/30"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/31"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/32"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/33"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/34"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/35"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/36"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/37"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/38"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/39"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/4"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/40"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/41"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/42"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/43"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/44"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/45"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/46"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/47"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/48"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/49"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/5"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/50"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/51"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/52"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/53"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/54"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/55"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/56"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/57"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/58"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/59"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/6"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/60"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/7"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/8"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "/9"
       },
       {
@@ -1080,7 +950,7 @@
         "pattern": "Net-(U2-Pad23)"
       },
       {
-        "netclass": "Default",
+        "netclass": "Nixie",
         "pattern": "VPP"
       }
     ]
