@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HV5122_Doayee")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/HV5122_Doayee.kicad_sym")(options "")(descr "HV5122 High Voltage Driver"))
+  (lib (name "HV5122_Doayee - Copy")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/HV5122_Doayee.kicad_sym")(options "")(descr "HV5122 Driver Alias"))
+  (lib (name "HV5122PG-G")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/HV5122PG-G.kicad_sym")(options "")(descr "HV5122PG-G Driver"))
+  (lib (name "74LVC1G79GW")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/74LVC1G79GW-Q100H.kicad_sym")(options "")(descr "74LVC1G79 D Flip-Flop"))
+  (lib (name "nixies-us")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/nixies-us.kicad_sym")(options "")(descr "Nixie Tubes (US)"))
+  (lib (name "mynixies")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/mynixies.kicad_sym")(options "")(descr "My Nixies"))
+  (lib (name "nixiemisc")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/nixiemisc.kicad_sym")(options "")(descr "Nixie Misc"))
+  (lib (name "CustomComponents")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/CustomComponents.kicad_sym")(options "")(descr "Custom Components"))
+)

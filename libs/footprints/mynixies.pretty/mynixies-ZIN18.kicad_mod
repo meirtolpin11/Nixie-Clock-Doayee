@@ -1,0 +1,194 @@
+(footprint "mynixies-ZIN18"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "f85f5c19-913b-4fe3-ba64-4f9dd22409b7")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "8f043701-fc8c-47e7-9596-7f5e28fac43b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f66ec53-bee7-41d2-877b-16e83d5d20bb")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "21e4044c-3ca4-46a1-b59e-d47f7b730965")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_arc
+		(start 13.99794 0)
+		(mid 0 13.99794)
+		(end -13.99794 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e3ff53ab-159c-4299-bd52-3ed906b6ceb2")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -15.99946)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "ecccddf5-b7db-4947-aee9-4219256ca697")
+	)
+	(pad "0" thru_hole oval
+		(at 7.62 -3.81 90)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "20274029-baa9-4170-b45c-6a953e2d035f")
+	)
+	(pad "1" thru_hole oval
+		(at -7.62 -5.08 270)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "f5752dae-727c-4273-9cfd-db294ace28b5")
+	)
+	(pad "2" thru_hole oval
+		(at -7.62 -2.54 270)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "ce708ec9-3f64-4be9-9d4e-2ae64930a205")
+	)
+	(pad "3" thru_hole oval
+		(at 7.62 1.27 90)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "c177f605-6c8b-4da9-947c-143fc9f97503")
+	)
+	(pad "4" thru_hole oval
+		(at -7.62 2.54 270)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "e0bc2d06-85fd-475a-bbd3-1ce69f9273bd")
+	)
+	(pad "5" thru_hole oval
+		(at 7.62 6.35 90)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "956554d5-3fc9-4bfd-9751-3e4aa657f84f")
+	)
+	(pad "6" thru_hole oval
+		(at -7.62 5.08 270)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "1092f812-5012-4742-ab99-b8d0e7ebf4e0")
+	)
+	(pad "7" thru_hole oval
+		(at 7.62 3.81 90)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "736e2199-7c7b-48ab-b98e-90f64611027e")
+	)
+	(pad "8" thru_hole oval
+		(at -7.62 0 270)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "01f34dc2-e3f7-4f2d-a573-efc3f0f4a9bd")
+	)
+	(pad "9" thru_hole oval
+		(at 7.62 -1.27 90)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "11a4fb7b-0c0f-4418-94b0-fc8cae51a6ad")
+	)
+	(pad "A" thru_hole oval
+		(at 7.62 -6.35 90)
+		(size 1.9558 2.9337)
+		(drill 1.778
+			(offset 0 0.48768)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "7e1c8d3b-b518-4d9d-a0df-6ed28c3f3f31")
+	)
+	(embedded_fonts no)
+)

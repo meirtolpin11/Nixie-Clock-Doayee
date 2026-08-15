@@ -1,0 +1,25 @@
+# KiCad temporary, local, and backup files
+*.kicad_prl
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+*.lck
+*-save.kicad_pcb
+*-save.kicad_sch
+*-erc.rpt
+*-drc.rpt
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+__MACOSX/
+ehthumbs.db
+desktop.ini
+
+# Editor & History directories
+.history/
+.vscode/
+.idea/

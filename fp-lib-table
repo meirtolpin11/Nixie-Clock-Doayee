@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HV5122PG-G")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/HV5122PG-G.pretty")(options "")(descr "HV5122 Footprints"))
+  (lib (name "74LVC1G79GW")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/74LVC1G79GW.pretty")(options "")(descr "74LVC Footprints"))
+  (lib (name "nixies-us")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/nixies-us.pretty")(options "")(descr "Nixie Tube Footprints (US)"))
+  (lib (name "mynixies")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/mynixies.pretty")(options "")(descr "My Nixie Footprints"))
+  (lib (name "nixiemisc")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/nixiemisc.pretty")(options "")(descr "Nixie Misc Footprints"))
+  (lib (name "CustomComponents")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/CustomComponents.pretty")(options "")(descr "Custom Component Footprints"))
+)
