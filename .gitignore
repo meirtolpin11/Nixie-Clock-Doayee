@@ -11,6 +11,7 @@ _autosave-*
 *-erc.rpt
 *-drc.rpt
 *.tmp
+_restore_backup_*
 
 # OS generated files
 .DS_Store
