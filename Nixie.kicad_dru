@@ -9,3 +9,8 @@
     (condition "A.Reference == 'JP1'")
     (constraint clearance (min 0.1mm))
 )
+
+(rule "TEST_U2"
+    (condition "A.Reference == 'U3'")
+    (constraint clearance (min 0.1mm))
+)
