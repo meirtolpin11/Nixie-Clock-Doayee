@@ -11766,6 +11766,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 243.84 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ecb556bb-78e2-4162-83d1-5729c5da05ac")
 		)
@@ -11845,6 +11856,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 243.84 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -11930,6 +11952,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 243.84 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e54df1ff-4223-4ed3-9e70-e36acc38fb5e")
 		)
@@ -12009,6 +12042,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 204.47 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -12094,6 +12138,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 204.47 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f6b0f076-c214-4118-b6c8-d1ace7487370")
 		)
@@ -12176,6 +12231,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 204.47 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7b5a7aa9-cb89-4fe6-abea-095cc87adc31")
 		)
@@ -12227,7 +12293,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 53.0352 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -12238,7 +12304,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 52.07 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12249,7 +12315,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 52.07 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12257,6 +12323,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 52.07 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -12311,7 +12388,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 58.1152 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -12322,7 +12399,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 57.15 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12333,7 +12410,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 57.15 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12341,6 +12418,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 57.15 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -12395,7 +12483,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 63.1952 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -12406,7 +12494,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 62.23 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12417,7 +12505,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 62.23 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12425,6 +12513,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 62.23 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -12479,7 +12578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 68.2752 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -12490,7 +12589,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 67.31 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12501,7 +12600,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" ""
 			(at 67.31 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12509,6 +12608,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 67.31 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -12837,6 +12947,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 292.1 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bb6b428c-8686-4c38-8802-b3f26f70556d")
 		)
@@ -12919,6 +13040,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 292.1 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "538b39c9-a784-4738-887d-5a0ae6240f8c")
 		)
@@ -12998,6 +13130,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 292.1 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -13248,6 +13391,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 292.1 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ece075eb-bc4b-47ba-ba8e-5e78ed54213a")
 		)
@@ -13330,6 +13484,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 292.1 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "377f7ad5-c5b0-45a6-bfdf-132d9e3eb138")
 		)
@@ -13409,6 +13574,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 292.1 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -13659,6 +13835,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6167e306-6bcc-49aa-aa34-1acf339513db")
 		)
@@ -13741,6 +13928,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "60967660-6e3d-4a41-81fd-93039258d3e8")
 		)
@@ -13820,6 +14018,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -14070,6 +14279,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "36247a41-7445-49e9-ab72-d0107b49407b")
 		)
@@ -14152,6 +14372,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "43d47eeb-58bd-4215-9825-e66747d58cec")
 		)
@@ -14231,6 +14462,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -14481,6 +14723,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2b9793e9-be88-4408-b7a2-f4a1aba43cfa")
 		)
@@ -14563,6 +14816,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b548ac6c-88a9-4633-9737-aaa04a8e8f24")
 		)
@@ -14642,6 +14906,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -14892,6 +15167,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f6eb4723-bb28-4cca-8c3d-6c43be6d4d15")
 		)
@@ -14974,6 +15260,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a1c9a315-70eb-441a-aa92-b74e6549b940")
 		)
@@ -15053,6 +15350,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 273.05 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -15184,7 +15492,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x10_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical"
 			(at 41.91 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -15206,7 +15514,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 41.91 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -15214,6 +15522,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 41.91 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -15483,6 +15802,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "LED/THT"
+			(at 97.79 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "321641ef-2267-40ed-b2d0-ef6db857d712")
 		)
@@ -15562,6 +15892,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 97.79 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -16485,6 +16826,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 91.44 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0b35bf73-5f5d-44d9-a12e-2cb5909efcaf")
 		)
@@ -16564,6 +16916,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 88.9 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -16851,7 +17214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x20_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical"
 			(at 342.9 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -16873,7 +17236,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 342.9 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -16881,6 +17244,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 342.9 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -17021,6 +17395,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/gullwing"
+			(at 152.4 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b889bd3d-4d1b-4805-9897-d88f0283b335")
 		)
@@ -17076,7 +17461,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 303.53 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -17098,7 +17483,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 303.53 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -17106,6 +17491,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 303.53 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
@@ -17168,7 +17564,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x20_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical"
 			(at 312.42 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -17190,7 +17586,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x18, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 312.42 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -17198,6 +17594,17 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 312.42 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 			)
 		)
