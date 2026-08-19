@@ -86,7 +86,7 @@
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
-        "duplicate_footprints": "warning",
+        "duplicate_footprints": "ignore",
         "extra_footprint": "warning",
         "footprint": "error",
         "footprint_filters_mismatch": "ignore",
@@ -117,7 +117,7 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -974,7 +974,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers-Seeed/RGB-PCB",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -1131,7 +1131,11 @@
       }
     ],
     "used_designators": "U1,Q1,#PWR23-24,J1-3,#FLG1-3",
-    "variants": []
+    "variants": [
+      {
+        "name": "JLCPCB"
+      }
+    ]
   },
   "sheets": [
     [
