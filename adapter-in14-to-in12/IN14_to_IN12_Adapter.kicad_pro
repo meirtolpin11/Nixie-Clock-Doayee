@@ -1,0 +1,22 @@
+{
+  "board": {
+    "design_settings": {
+      "defaults": {
+        "board_outline_line_width": 0.15,
+        "copper_line_width": 0.25
+      },
+      "rules": {
+        "min_clearance": 0.15,
+        "min_copper_edge_clearance": 0.25,
+        "min_hole_clearance": 0.2,
+        "min_hole_to_hole": 0.25,
+        "min_through_hole_diameter": 0.3,
+        "min_track_width": 0.15
+      }
+    }
+  },
+  "meta": {
+    "filename": "IN14_to_IN12_Adapter.kicad_pro",
+    "version": 1
+  }
+}

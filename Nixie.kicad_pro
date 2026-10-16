@@ -1130,7 +1130,7 @@
         "uuid": "9f524aff-a8a7-4ea9-ae24-2dc4ef5d53f2"
       }
     ],
-    "used_designators": "U1,Q1,#PWR23-24,J1-3,#FLG1-3",
+    "used_designators": "U1,Q1,D1-4,D6-7,#PWR10-15,#PWR22-29,R1,J1-3,#FLG1-3",
     "variants": [
       {
         "name": "JLCPCB"
